@@ -1,0 +1,20 @@
+object Partial {
+   def number (a:Int,b:Int,str:String) ={
+     println(a + b + " " + str)
+   }
+   
+  def main(args: Array[String]){
+{
+   
+  var col = number(49,45, _:String)
+     
+  col("are a integer")
+
+  col("are a two digit number")
+
+  col("are a the rsult numbers")
+
+  }
+     
+   }
+}
