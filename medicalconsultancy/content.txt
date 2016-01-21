@@ -1,0 +1,10 @@
+!define TEST_SYSTEM {slim}
+!path FitNesseRoot\MedicalConsultancy
+!|Cignamedicalshop |
+|name|city|disease |medicine|quantity|amount|totalamount?|
+|gopi|namakkal|headache|dolobolo|2|10| 20|
+|nachiyar|madurai|headache|dolobolo|3|10| 30|
+|ram|madurai|fever|calpal|2|30| 60|
+|gopi|namakkal|headache|dolobolo|3|10| 30|
+|nachiyar|madurai|headache|dolobolo|4|10| 30|
+|ram|madurai|fever|calpal|5|30| 150|
