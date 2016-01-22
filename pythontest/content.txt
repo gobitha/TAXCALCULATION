@@ -2,9 +2,12 @@
 
 !define TEST_RUNNER {C:\Python27\PyFIT-0.8a2\PyFIT-0.8a2\fit\FitServer.py}
 
-!path C:\Users\g.kulanthavel\Desktop\Scala
+!path C:\software\FitNesseRoot\PythonTest
 
 !|Division                      |
 |numerator|denominator|quotient?|
 |10       |5          |2        |
 |10       |2          |5.001    |
+
+
+MedicalC
